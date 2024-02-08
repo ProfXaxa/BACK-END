@@ -1,5 +1,6 @@
-# BACK-END
-Boas vindas ao meu perfil
+# BACK-END 💙
+_Boas vindas ao meu perfil_
+
 Meu nome é Alexandre.
 - Estou estudando Programação BACK-END.
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
